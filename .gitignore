@@ -6,7 +6,6 @@ __pycache__/
 # C extensions
 *.so
 *.dylib
-*_gen.py
 
 # Distribution / packaging
 .Python
