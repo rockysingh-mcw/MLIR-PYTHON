@@ -131,7 +131,6 @@ venv/
 ENV/
 env.bak/
 venv.bak/
-/mlir/mlir_python_binding
 
 # Spyder project settings
 .spyderproject
